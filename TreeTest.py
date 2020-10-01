@@ -37,5 +37,6 @@ def main():
     root.update()
     root.mainloop()
 
+#magic method used
 if __name__ == '__main__':
     main()
